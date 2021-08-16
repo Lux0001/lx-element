@@ -1,5 +1,5 @@
 {
-  "name": "luxzlj-button1",
+  "name": "luxzlj-button2",
   "version": "0.1.1",
   "description": "luxzlj-button1",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "lodash": "4"
   },
-  "gitHead": "c3a8f139cda236e7e2f540a9309c6f3e02ff70b3"
+  "gitHead": "047d26432aeebd080d62f32cd34bd55357ef673f"
 }
