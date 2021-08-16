@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "async-validator": "^4.0.1"
-  }
+  },
+  "gitHead": "c3a8f139cda236e7e2f540a9309c6f3e02ff70b3"
 }
