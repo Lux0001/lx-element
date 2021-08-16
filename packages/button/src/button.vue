@@ -7,7 +7,7 @@
 </template>
 <script>
 export default {
-  name: 'LxButton',
+  name: 'LuxzljButton',
   methods: {
     handleClick(event) {
       this.$emit('click', event)

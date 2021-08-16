@@ -5,7 +5,7 @@
 </template>
 <script>
 export default {
-  name: 'LxInput',
+  name: 'LuxzljInput',
   inheriAttrs: false,
   props: {
     value: {

@@ -1,13 +1,13 @@
-import LxButton from '../'
+import LuxzljButton from '../'
 
 export default {
-  title: 'LxButton',
-  component: LxButton
+  title: 'LuxzljButton',
+  component: LuxzljButton
 }
 
 export const button = () => ({
-  components: { LxButton },
-  template: '<lx-button @click="onClick">click</lx-button>',
+  components: { LuxzljButton },
+  template: '<luxzlj-button @click="onClick">click</luxzlj-button>',
   data() {
     return {}
   },

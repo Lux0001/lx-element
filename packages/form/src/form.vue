@@ -5,7 +5,7 @@
 </template>
 <script>
 export default {
-  name: 'LxForm',
+  name: 'LuxzljForm',
   provide () {
     return {
       form: this

@@ -1,13 +1,13 @@
-import LxInput from '../'
+import LuxzljInput from '../'
 
 export default {
-  title: 'LxInput',
-  component: LxInput
+  title: 'LuxzljInput',
+  component: LuxzljInput
 }
 
 export const Text = () => ({
   components: { LxInput },
-  template: '<lx-input v-model="value"></lx-input>',
+  template: '<luxzlj-input v-model="value"></luxzlj-input>',
   data() {
     return {
       value: 'admin'
@@ -17,7 +17,7 @@ export const Text = () => ({
 
 export const Password = () => ({
   components: { LxInput },
-  template: '<lx-input type="password" v-model="value"></lx-input>',
+  template: '<luxzlj-input type="password" v-model="value"></luxzlj-input>',
   data() {
     return {
       value: 'admin'
