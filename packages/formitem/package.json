@@ -1,7 +1,7 @@
 {
-  "name": "lx-formitem",
+  "name": "luxzlj-formitem",
   "version": "0.0.1",
-  "description": "lx-formitem",
+  "description": "luxzlj-formitem",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

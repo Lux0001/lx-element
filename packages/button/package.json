@@ -1,7 +1,7 @@
 {
-  "name": "lx-button",
+  "name": "luxzlj-button",
   "version": "0.0.1",
-  "description": "lx-button",
+  "description": "luxzlj-button",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
