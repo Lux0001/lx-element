@@ -1,5 +1,5 @@
 17 error Error: Command failed with exit code 1: git remote update
-17 error fatal: unable to access 'https://github.com/Lux0001/lx-element.git/': OpenSSL SSL_read: Connection was reset, errno 10054
+17 error fatal: unable to access 'https://github.com/Lux0001/lx-element.git/': Failed to connect to github.com port 443: Timed out
 17 error error: Could not fetch origin
 17 error Fetching origin
 17 error     at makeError (C:\Users\Lux\AppData\Local\Yarn\Data\global\node_modules\@lerna\child-process\node_modules\execa\lib\error.js:60:11)
