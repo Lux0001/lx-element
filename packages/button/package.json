@@ -1,7 +1,7 @@
 {
-  "name": "luxzlj-button",
-  "version": "0.0.1",
-  "description": "luxzlj-button",
+  "name": "luxzlj-button-zhou",
+  "version": "1.0.0",
+  "description": "luxzlj-button-zhou",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "4"
-  }
+  },
+  "gitHead": "047d26432aeebd080d62f32cd34bd55357ef673f"
 }

@@ -1,6 +1,6 @@
 {
   "name": "luxzlj-form",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "luxzlj-form",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "4"
-  }
+  },
+  "gitHead": "047d26432aeebd080d62f32cd34bd55357ef673f"
 }

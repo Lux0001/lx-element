@@ -1,27 +1,27 @@
-import LxForm from '../'
-import LxFormItem from '../../formitem'
-import LxInput from '../../input'
-import LxButton from '../../button'
+import LuxzljForm from '../'
+import LuxzljFormItem from '../../formitem'
+import Luxzljnput from '../../input'
+import LuxzljButton from '../../button'
 
 export default {
-  title: 'LxForm',
-  component: LxForm
+  title: 'LuxzljForm',
+  component: LuxzljForm
 }
 
 export const Login = () => ({
-  components: { LxForm, LxFormItem, LxInput, LxButton },
+  components: { LuxzljForm, LuxzljFormItem, LuxzljInput, LuxzljButton },
   template: `
-    <lx-form class="form" ref="form" :model="user" :rules="rules">
-      <lx-form-item label="用户名" prop="username">
-        <lx-input :value="user.username" @input="user.username=$event" placeholder="请输入用户名"></lx-input>
-      </lx-form-item>
-      <lx-form-item label="密码" prop="password">
-        <lx-input type="password" v-model="user.password"></lx-input>
-      </lx-form-item>
-      <lx-form-item>
-        <lx-button type="primary" @click="login">登 录</lx-button>
-      </lx-form-item>
-    </lx-form>
+    <luxzlj-form class="form" ref="form" :model="user" :rules="rules">
+      <luxzlj-form-item label="用户名" prop="username">
+        <luxzlj-input :value="user.username" @input="user.username=$event" placeholder="请输入用户名"></luxzlj-input>
+      </luxzlj-form-item>
+      <luxzlj-form-item label="密码" prop="password">
+        <luxzlj-input type="password" v-model="user.password"></luxzlj-input>
+      </luxzlj-form-item>
+      <luxzlj-form-item>
+        <luxzlj-button type="primary" @click="login">登 录</luxzlj-button>
+      </luxzlj-form-item>
+    </luxzlj-form>
   `,
   data () {
     return {

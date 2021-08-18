@@ -10,7 +10,7 @@
 <script>
 import AsyncValidator from 'async-validator'
 export default {
-  name: 'LxFormItem',
+  name: 'LuxzljFormItem',
   inject: [ 'form' ],
   props: {
     label: {

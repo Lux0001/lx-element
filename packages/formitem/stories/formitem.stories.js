@@ -1,6 +1,6 @@
-import LxFormItem from '../'
+import LuxzljFormItem from '../'
 
 export default {
-  title: 'LxFormItem',
-  component: LxFormItem
+  title: 'LuxzljFormItem',
+  component: LuxzljFormItem
 }

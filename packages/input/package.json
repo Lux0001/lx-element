@@ -1,6 +1,6 @@
 {
   "name": "luxzlj-input",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "luxzlj-input",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "3"
-  }
+  },
+  "gitHead": "047d26432aeebd080d62f32cd34bd55357ef673f"
 }
